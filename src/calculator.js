@@ -1,4 +1,5 @@
 function addition(a, b) {
+  // addition operation
   return a + b;
 }
 
