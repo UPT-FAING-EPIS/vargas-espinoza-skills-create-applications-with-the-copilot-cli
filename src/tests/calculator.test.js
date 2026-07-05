@@ -11,3 +11,5 @@ test("power raises a number to an exponent", () => {
 test("square root returns the root", () => {
   expect(calculator.squareRoot(9)).toBe(3);
 });
+
+// extended tests include modulo, power, and square root
