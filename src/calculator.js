@@ -4,6 +4,7 @@ function addition(a, b) {
 }
 
 function subtraction(a, b) {
+  // subtraction operation
   return a - b;
 }
 
